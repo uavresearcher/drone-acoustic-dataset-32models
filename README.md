@@ -4,6 +4,6 @@ A comprehensive acoustic dataset of 32 drone models Mel-spectrogram image repres
 
 ## Dataset Overview
 
-**32 drone models** from 8 manufacturers
-**16,000 seconds** of labeled audio
-**100 samples per model** (5 seconds each)
+- **32 drone models** from 8 manufacturers
+- **16,000 seconds** of labeled audio
+- **100 samples per model** (5 seconds each)
